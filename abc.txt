@@ -3,3 +3,6 @@ var adstat_obj=document.getElementById("adstat_js");if(!(/bot|spider/i.test(wind
 
 
 asdfasdf
+
+
+111111
